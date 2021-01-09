@@ -126,9 +126,9 @@ def adding_to_dennis
         }
      }
      
-jon_snow = programmer_hash[:dennis_ritchie]
-jons_fav_ice_cream = jon_snow[:favorite_ice_cream_flavors]
-jons_fav_ice_cream << "mint chip"
+dennis_ritchie = programmer_hash[:dennis_ritchie]
+dennis_ritchies_languages = dennis_ritchie[:languages]
+dennis_ritchies_languages << "Assembly"
 
   programmer_hash[:dennis_ritchie][:languages] << "Assembly" 
 end
