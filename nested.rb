@@ -126,7 +126,7 @@ def adding_to_dennis
         }
      }
      
-jon_snow = contacts["Jon Snow"]
+jon_snow = programmer_hash[]
 jons_fav_ice_cream = jon_snow[:favorite_ice_cream_flavors]
 jons_fav_ice_cream << "mint chip"
 
