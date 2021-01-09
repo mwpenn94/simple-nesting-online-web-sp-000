@@ -132,5 +132,6 @@ strings = ["abc", "def", "four", "five"]
 strings.each do |word|
     map[word.length] += [word]
 end
+
   programmer_hash[:dennis_ritchie][:languages] << "Assembly" 
 end
